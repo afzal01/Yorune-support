@@ -1,6 +1,6 @@
-# HabitFlow Support
+# Yorune Support
 
-HabitFlow is a simple, private habit tracker for iOS. Track daily habits —
+Yorune is a simple, private habit tracker for iOS. Track daily habits —
 yes/no or counter-based — build streaks, and see your progress over time.
 All your data stays on your device; nothing is sent to a server.
 
@@ -10,7 +10,7 @@ Please open an issue on this repo, or email: afzal.ansari01234@gmail.com
 
 ## FAQ
 
-**Does HabitFlow require an account?**
+**Does Yorune require an account?**
 No — no login, no data leaves your device.
 
 **Is my data backed up if I lose my phone?**
